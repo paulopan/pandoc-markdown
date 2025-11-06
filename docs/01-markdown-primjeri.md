@@ -22,7 +22,9 @@
 <img src="../tux.png" width="30%">
 
 ## Bash
-```npm install -g @anthropic-ai/claude-code```
+```bash
+npm install -g @anthropic-ai/claude-code
+```
 
 ## Poveznica
 [Karte](https://www.google.com/maps)
