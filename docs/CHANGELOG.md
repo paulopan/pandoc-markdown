@@ -1,3 +1,10 @@
+---
+title: "Pandoc - Markdown"
+author: "Paulo Pantalon"
+date: "30. listopada 2025."
+lang: "hr"
+---
+
 # Changelog za Pandoc i Markdown
 
 - [v0.3] - 6. studenoga 2025.
